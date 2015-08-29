@@ -2,15 +2,19 @@
 #### YouTube Links:
 ###### Talks:
 
+[Demystifying Haskell - Andrew Rademacher](https://www.youtube.com/watch?v=apBWkBDVlow)
+
+[Haskell Google Tech Talk - Mark Lentczner](https://www.youtube.com/watch?v=b9FagOVqxmI)
+
+[Introduction to Functional - Programming in Haskell - Gulshan](https://www.youtube.com/watch?v=f7IYRS7XgGU)
+
 [Adventure with Types in Haskell (Lecture 1) - Simon Peyton Jones](https://www.youtube.com/watch?v=6COvD8oynmI)
 
 [Adventure with Types in Haskell (Lecture 2) - Simon Peyton Jones](https://www.youtube.com/watch?v=brE_dyedGm0)
 
 [Adventure with Types in Haskell (Lecture 3) - Simon Peyton Jones](https://www.youtube.com/watch?v=2IZQx7WNOMs)
 
-[Haskell Google Tech Talk - Mark Lentczner](https://www.youtube.com/watch?v=b9FagOVqxmI)
-
-[Demystifying Haskell - Andrew Rademacher](https://www.youtube.com/watch?v=apBWkBDVlow)
+[Running a Startup on Haskell - Bryan O'Sullivan](https://www.youtube.com/watch?v=ZR3Jirqk6W8)
 
 ###### Tutorials:
 [Haskell Tutorial - Derek Banas](https://www.youtube.com/watch?v=02_H3LjqMr8)
