@@ -16,6 +16,8 @@
 
 [Running a Startup on Haskell - Bryan O'Sullivan](https://www.youtube.com/watch?v=ZR3Jirqk6W8)
 
+[Beginning Web Programming in Haskell - Oliver Charles](https://www.youtube.com/watch?v=GobPiGL9jJ4)
+
 ###### Tutorials:
 [Haskell Tutorial - Derek Banas](https://www.youtube.com/watch?v=02_H3LjqMr8)
 
