@@ -33,6 +33,8 @@
 [Haskell and Yesod](http://www.yesodweb.com/book-1.4) -- available free online
 
 #### Other:
+[State of the Haskell ecosystem - Haskell for all](http://www.haskellforall.com/2015/08/state-of-haskell-ecosystem-august-2015.html)
+
 [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
 
 [Yorgey's cis194 course](http://www.seas.upenn.edu/~cis194/spring13/lectures.html)
